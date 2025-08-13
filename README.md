@@ -31,7 +31,7 @@ The plugin supports the following configuration options:
 To use this plugin, you need to install it first. You can do this by running the following command:
 
 ```shell
- go install github.com/tomtwinkle/sqlc-plugin-bulk-go@latest
+ go install github.com/egishe/sqlc-plugin-bulk-go@latest
 ```
 
 ### 2. Configure sqlc.yaml

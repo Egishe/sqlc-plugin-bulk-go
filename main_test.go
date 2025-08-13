@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
+	sqlcpluginbulkgo "github.com/egishe/sqlc-plugin-bulk-go"
 	"github.com/sqlc-dev/plugin-sdk-go/plugin"
-	sqlcpluginbulkgo "github.com/tomtwinkle/sqlc-plugin-bulk-go"
 	"gotest.tools/v3/assert"
 )
 
